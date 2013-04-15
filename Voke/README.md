@@ -1,0 +1,1 @@
+Automated invocation/evocation/summoning module. Allows input of specific deity/spirit caster intends to evoke/invoke/summon, and generates proper ritual formula which may be spoken by User or intoned via Text-to-Speech.
