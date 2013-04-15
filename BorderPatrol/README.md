@@ -1,0 +1,1 @@
+Initial app in eRite-Suite. Creates and displays an etheric "sacred space" with caster avatar in the center. Simple GUI allows caster to align self with compass directions, and displays appropriate correspondences for each direction.
